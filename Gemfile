@@ -37,6 +37,7 @@ end
 gem "aws-sdk-s3", "~> 1", require: false
 gem "classy-yaml", "~> 0.7"
 gem "devise", "~> 4.8.1"
+gem "good_job", "~> 2.7"
 gem "honeybadger", "~> 4.0"
 gem "inline_svg", "~> 1.7"
 gem "mailgun-ruby", "~> 1.2"
@@ -45,7 +46,6 @@ gem "pagy", "~> 5.2"
 gem "pay", "~> 3.0"
 gem "pundit", "~> 2.1"
 gem "redcarpet", "~> 3.5"
-gem "sidekiq", "~> 6.3"
 gem "stripe", ">= 2.8", "< 6.0"
 
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
