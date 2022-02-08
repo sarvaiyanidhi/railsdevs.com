@@ -1,0 +1,7 @@
+# Ignore artifacts:
+app/assets/builds
+log
+node_modules
+public/assets
+storeage
+tmp
