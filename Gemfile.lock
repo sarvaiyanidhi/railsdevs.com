@@ -478,6 +478,7 @@ DEPENDENCIES
   inline_svg
   invisible_captcha
   jsbundling-rails
+  json
   letter_opener_web
   minitest-reporters
   minitest-reporters-pride_reporter
